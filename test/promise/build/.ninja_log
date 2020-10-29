@@ -1,0 +1,12 @@
+# ninja log v5
+0	65	1603926716	promise.cc	765f889ef526e541
+65	87	1603926716	CMakeFiles/promise.dir/init.cc.o	1e18a9c27829f2f3
+65	241	1603926716	CMakeFiles/promise.dir/promise-impl.cc.o	2ac430224e389307
+66	532	1603926716	CMakeFiles/promise.dir/promise.cc.o	637adeebab92672a
+532	566	1603926716	Release/promise.node	6b458989da0829a4
+1	66	1603927332	build.ninja	fb1c932a64410cec
+0	62	1603927332	promise.cc	765f889ef526e541
+62	80	1603927332	CMakeFiles/promise.dir/init.cc.o	1e18a9c27829f2f3
+63	250	1603927332	CMakeFiles/promise.dir/promise-impl.cc.o	2ac430224e389307
+62	523	1603927333	CMakeFiles/promise.dir/promise.cc.o	637adeebab92672a
+523	560	1603927333	Release/promise.node	6b458989da0829a4

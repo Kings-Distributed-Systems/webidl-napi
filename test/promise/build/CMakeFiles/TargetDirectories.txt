@@ -1,0 +1,3 @@
+/home/dcerisano/git/webidl-napi/test/promise/build/CMakeFiles/rebuild_cache.dir
+/home/dcerisano/git/webidl-napi/test/promise/build/CMakeFiles/edit_cache.dir
+/home/dcerisano/git/webidl-napi/test/promise/build/CMakeFiles/promise.dir
